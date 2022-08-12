@@ -1,0 +1,16 @@
+.idea
+
+// Executable
+*.exe
+*.exe~
+main
+
+// Makefile
+Marefile
+
+// Replit IDE
+.replit
+replit.nix
+
+// Tests
+*.test
